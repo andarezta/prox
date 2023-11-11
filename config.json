@@ -12,7 +12,7 @@
     }
   ],
   "Protocol": "STRATUM",
-  "ProxyPort": 4444,
+  "ProxyPort": 8888,
   "ProxyCert": "",
   "Coin": "VRSC",
   "Wallet": "DN5C7yLyMV5eSmVBtxPDA3ntfKGUZ9Wcpk",
