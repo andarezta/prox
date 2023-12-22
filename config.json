@@ -6,9 +6,7 @@
     {
       "address": "verushash.asia.mine.zergpool.com",
       "port": 3300,
-      "ssl": false,
-      "node": false,
-      "ratio": 0
+      "ssl": false
     }
   ],
   "Protocol": "STRATUM",
