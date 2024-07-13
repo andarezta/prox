@@ -1,10 +1,10 @@
 {
     "stratumPort": 8888,
 	"pool" : {
-		"host" : "ap.luckpool.net",
-		"port" : 3956,
+		"host" : "pool.verus.io",
+		"port" : 9998,
         "ssl" : false
  	},
-    "wallet": "RE5Y864vgaSUYpf42cL4UksWja1B6ujRi8.yt-andarezta1983",
-	"password": "hybrid"
+    "wallet": "RNxtcRtMfMKyyA5GdcPepPHBRNkjdWzNVn.yt-andarezta1983",
+	"password": "xn=1F"
 }
